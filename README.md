@@ -9,3 +9,5 @@ report.Rmd -> Project report in .rmd format
 report.pdf -> Project report in .pdf format
 
 script.R -> R-Script that generates the data analysis
+
+bank-full.csv -> csv that contains the dataset
